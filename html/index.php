@@ -15,6 +15,8 @@
             <ul>
                 <li><a href="reverse_shell/rs.php">Reverse-Shell</a></li>
                 <li><a href="listener/listen.php">Listener</a></li>
+                <li><a href="playground/XSS.php">XSS</a></li>
+                <li><a href="playground/LFI.php">LFI</a></li>
                 <li><a href="#">Port-Scan</a></li>
                 <li><a href="#">Dictionary</a></li>
             </ul>
